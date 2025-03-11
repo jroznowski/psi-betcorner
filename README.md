@@ -1,4 +1,4 @@
 # psi-betcorner
 ## Członkowie:
-- Kierownik projektu: Jakub Rożnowski 175384
-- Mikołaj Małecki
+- **Kierownik projektu**: Jakub Rożnowski 175384
+- **Członek projektu**: Mikołaj Małecki 175272
